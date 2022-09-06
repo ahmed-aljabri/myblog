@@ -1,0 +1,4 @@
+[submodule "remoteblog/public"]
+	path = remoteblog/public
+	url = https://github.com/ahmed-aljabri/ahmed-aljabri.github.io.git
+	branch = main
