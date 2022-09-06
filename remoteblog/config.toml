@@ -12,7 +12,7 @@ paginate     = 10
 
 
   # Subtitle for home
-  homeSubtitle = "Thanks for stopping by! I'm Ahmed Al-Jabri and this is my personal site and technical blog where I share and discuss various topics of interest"
+  homeSubtitle = "Cybersecurity graduate // Oman"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -46,7 +46,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Welcome!"
+    title = "AHMED AL-JABRI"
     subtitle = "Portfolio Site and Technical Blog"
     keywords = "blog"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -72,7 +72,7 @@ paginate     = 10
 
   [[menu.main]]
     identifier = "posts"
-    name       = "Blog Posts"
+    name       = "Blog"
     url        = "posts/"
 
   # Resume Menu - uncomment to add resume option to the navbar.

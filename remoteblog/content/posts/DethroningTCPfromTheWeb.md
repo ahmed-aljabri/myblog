@@ -1,10 +1,9 @@
 ---
-title: "#1 Dethroning TCP in the Web"
-description: How the emergence of QUIC and HTTP/3 changes the web as we know it.
-date: 2022-08-13T23:48:06+01:00
+title: "#01 Dethroning TCP from The Web"
+date: 2022-08-13T13:44:46Z
 draft: false
 toc: false
-images: 
+images:
 tags:
   - QUIC
   - TCP
@@ -147,4 +146,3 @@ In summary, with the standardisation of HTTP3, a major shift takes place within 
   
 
   
-
